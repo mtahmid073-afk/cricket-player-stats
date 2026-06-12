@@ -311100,22 +311100,20 @@
         "odi": {
           "start_year": 2010,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:18"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2011,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:21"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 40
     },
     "batting": {
@@ -313337,30 +313335,27 @@
         "test": {
           "start_year": 2009,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:34:24"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2007,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:34:22"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         },
         "t20": {
           "start_year": 2007,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:34:20"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": false,
+      "overall_career_status": "active",
       "age": 40
     },
     "batting": {
@@ -322290,30 +322285,27 @@
         "test": {
           "start_year": 2011,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:33"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2010,
           "last_played_year": 2023,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:39"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2010,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:29"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -325084,30 +325076,27 @@
         "test": {
           "start_year": 2011,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2009,
           "last_played_year": 2023,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:36"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2009,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:43"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -326161,22 +326150,20 @@
         "odi": {
           "start_year": 2013,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:39"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2011,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:41"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -327342,14 +327329,13 @@
         "t20": {
           "start_year": 2016,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:21:56"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -329668,22 +329654,20 @@
         "odi": {
           "start_year": 2009,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:19"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2009,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:21"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -332180,30 +332164,27 @@
         "test": {
           "start_year": 2007,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:45"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2006,
           "last_played_year": 2023,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:40"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2006,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:38"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 39
     },
     "batting": {
@@ -334047,10 +334028,9 @@
         "test": {
           "start_year": 2013,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2007,
@@ -334062,10 +334042,9 @@
         "t20": {
           "start_year": 2007,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:34:59"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -334580,24 +334559,21 @@
           "last_played_year": 2026,
           "retired": false,
           "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:46"
+          "retirement_confidence": "medium"
         },
         "odi": {
           "start_year": 2006,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:34:30"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         },
         "t20": {
           "start_year": 2006,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:02:09"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -346439,30 +346415,27 @@
         "test": {
           "start_year": 2012,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:45"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2012,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2011,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:50"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 38
     },
     "batting": {
@@ -358964,10 +358937,9 @@
         "odi": {
           "start_year": 2012,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:22:59"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         },
         "t20": {
           "start_year": 2012,
@@ -367342,14 +367314,13 @@
         "t20": {
           "start_year": 2025,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:23:21"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": false,
+      "overall_career_status": "active",
       "age": 37
     },
     "batting": {
@@ -370215,10 +370186,9 @@
         "odi": {
           "start_year": 2016,
           "last_played_year": 2016,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:23:33"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         },
         "t20": {
           "start_year": 2016,
@@ -372006,18 +371976,16 @@
         "odi": {
           "start_year": 2010,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:23:48"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         },
         "t20": {
           "start_year": 2010,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:23:53"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -376045,10 +376013,9 @@
         "odi": {
           "start_year": 2015,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:02"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2015,
@@ -383587,28 +383554,25 @@
           "last_played_year": 2020,
           "retired": true,
           "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:03:03"
+          "retirement_confidence": "high"
         },
         "odi": {
           "start_year": 2009,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:55"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2009,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:57"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 36
     },
     "batting": {
@@ -385905,18 +385869,16 @@
         "odi": {
           "start_year": 2010,
           "last_played_year": 2025,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:09"
+          "retired": false,
+          "status": "active",
+          "retirement_confidence": "medium"
         },
         "t20": {
           "start_year": 2012,
           "last_played_year": 2024,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:11"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -390017,10 +389979,9 @@
         "odi": {
           "start_year": 2018,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:18"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -391437,22 +391398,20 @@
         "odi": {
           "start_year": 2019,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:30"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2017,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:24:32"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 36
     },
     "batting": {
@@ -400553,22 +400512,20 @@
         "odi": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:06"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2015,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:08"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 35
     },
     "batting": {
@@ -406607,22 +406564,20 @@
         "odi": {
           "start_year": 2013,
           "last_played_year": 2020,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:26:38"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         },
         "t20": {
           "start_year": 2014,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:26:41"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 35
     },
     "batting": {
@@ -408524,30 +408479,27 @@
         "test": {
           "start_year": 2018,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:30"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2014,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:32"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2014,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:01:57"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 35
     },
     "batting": {
@@ -411679,10 +411631,9 @@
         "test": {
           "start_year": 2016,
           "last_played_year": 2023,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:26:59"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2017,
@@ -411699,8 +411650,8 @@
           "retirement_confidence": "high"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 35
     },
     "batting": {
@@ -424003,10 +423954,9 @@
         "test": {
           "start_year": 2014,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:16"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2011,
@@ -426247,22 +426197,20 @@
         "odi": {
           "start_year": 2014,
           "last_played_year": 2019,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:59:33"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         },
         "t20": {
           "start_year": 2014,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:59:31"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 34
     },
     "batting": {
@@ -431147,10 +431095,9 @@
         "odi": {
           "start_year": 2014,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:06:32"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2019,
@@ -440480,14 +440427,13 @@
         "test": {
           "start_year": 2018,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:24"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 33
     },
     "batting": {
@@ -444657,10 +444603,9 @@
         "odi": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:06:19"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2025,
@@ -446870,14 +446815,13 @@
         "t20": {
           "start_year": 2020,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:30"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 33
     },
     "batting": {
@@ -448021,22 +447965,20 @@
         "test": {
           "start_year": 2017,
           "last_played_year": 2019,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:37"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         },
         "t20": {
           "start_year": 2016,
           "last_played_year": 2016,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:41"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 33
     },
     "batting": {
@@ -451846,22 +451788,20 @@
         "odi": {
           "start_year": 2019,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:52"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2017,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:54"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 33
     },
     "batting": {
@@ -453316,10 +453256,9 @@
         "test": {
           "start_year": 2015,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:57"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2014,
@@ -453331,10 +453270,9 @@
         "t20": {
           "start_year": 2015,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:05:55"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -457282,14 +457220,13 @@
         "test": {
           "start_year": 2019,
           "last_played_year": 2019,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:27:57"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 33
     },
     "batting": {
@@ -457437,18 +457374,16 @@
         "odi": {
           "start_year": 2011,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:12"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2011,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:14"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -461813,14 +461748,13 @@
         "t20": {
           "start_year": 2014,
           "last_played_year": 2014,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:09"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 32
     },
     "batting": {
@@ -463514,14 +463448,13 @@
         "t20": {
           "start_year": 2018,
           "last_played_year": 2018,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:19"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 32
     },
     "batting": {
@@ -465439,14 +465372,13 @@
         "t20": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:26"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 32
     },
     "batting": {
@@ -466182,30 +466114,27 @@
         "test": {
           "start_year": 2022,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:42"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2022,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:39"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2018,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:38"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 32
     },
     "batting": {
@@ -467977,18 +467906,16 @@
         "test": {
           "start_year": 2013,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:34"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2015,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:28:36"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2016,
@@ -467998,8 +467925,8 @@
           "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 32
     },
     "batting": {
@@ -469512,10 +469439,9 @@
         "test": {
           "start_year": 2017,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:04:57"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2016,
@@ -490499,22 +490425,20 @@
         "odi": {
           "start_year": 2021,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:22"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2018,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:24"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 31
     },
     "batting": {
@@ -503640,10 +503564,9 @@
         "test": {
           "start_year": 2015,
           "last_played_year": 2022,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:04:41"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2015,
@@ -504279,14 +504202,13 @@
         "odi": {
           "start_year": 2017,
           "last_played_year": 2017,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:36"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 30
     },
     "batting": {
@@ -508427,10 +508349,9 @@
         "test": {
           "start_year": 2017,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:04:26"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2016,
@@ -508442,10 +508363,9 @@
         "t20": {
           "start_year": 2016,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:04:24"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -508890,10 +508810,9 @@
         "t20": {
           "start_year": 2023,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:31:12"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -513008,10 +512927,9 @@
         "odi": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:31:10"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2019,
@@ -513823,10 +513741,9 @@
         "test": {
           "start_year": 2016,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:44"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 2025,
@@ -517288,22 +517205,20 @@
         "odi": {
           "start_year": 2021,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2021,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:49"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 29
     },
     "batting": {
@@ -520584,18 +520499,16 @@
         "odi": {
           "start_year": 2018,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:52"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2017,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:54"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -522915,10 +522828,9 @@
         "odi": {
           "start_year": 2017,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:03:21"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2017,
@@ -527303,14 +527215,13 @@
         "odi": {
           "start_year": 2021,
           "last_played_year": 2021,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:29:58"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 29
     },
     "batting": {
@@ -542695,30 +542606,27 @@
         "test": {
           "start_year": 2022,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:03:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "odi": {
           "start_year": 1997,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:03:53"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2018,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:03:55"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 28
     },
     "batting": {
@@ -542838,14 +542746,13 @@
         "test": {
           "start_year": 2021,
           "last_played_year": 2021,
-          "retired": true,
-          "status": "retired",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:30:05"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": true,
-      "overall_career_status": "retired",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 28
     },
     "batting": {
@@ -545800,14 +545707,13 @@
         "odi": {
           "start_year": 2024,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:30:44"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 28
     },
     "batting": {
@@ -548067,14 +547973,13 @@
         "t20": {
           "start_year": 2022,
           "last_played_year": 2022,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:04:32"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 28
     },
     "batting": {
@@ -562498,14 +562403,13 @@
         "test": {
           "start_year": 2024,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:30:48"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 27
     },
     "batting": {
@@ -570314,14 +570218,13 @@
         "odi": {
           "start_year": 2024,
           "last_played_year": 2024,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:30:55"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 26
     },
     "batting": {
@@ -574247,14 +574150,13 @@
         "t20": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:06:06"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 26
     },
     "batting": {
@@ -593235,22 +593137,20 @@
         "odi": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 02:02:00"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         },
         "t20": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 01:57:34"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": null,
+      "overall_career_status": "inactive_or_uncertain",
       "age": 24
     },
     "batting": {
@@ -598708,10 +598608,9 @@
         "t20": {
           "start_year": 2023,
           "last_played_year": 2023,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:30:57"
+          "retired": null,
+          "status": "inactive_or_uncertain",
+          "retirement_confidence": "low"
         }
       },
       "retired": false,
@@ -623918,14 +623817,13 @@
         "t20": {
           "start_year": 2019,
           "last_played_year": 2019,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:31:48"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active",
+      "retired": true,
+      "overall_career_status": "retired",
       "age": 22
     },
     "batting": {
@@ -672802,14 +672700,13 @@
         "odi": {
           "start_year": 2015,
           "last_played_year": 2015,
-          "retired": false,
-          "status": "active",
-          "retirement_confidence": "manual",
-          "updated_at": "2026-06-12 03:32:03"
+          "retired": true,
+          "status": "retired",
+          "retirement_confidence": "high"
         }
       },
-      "retired": false,
-      "overall_career_status": "active"
+      "retired": true,
+      "overall_career_status": "retired"
     },
     "batting": {
       "odi": {
